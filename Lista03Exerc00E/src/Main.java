@@ -21,6 +21,7 @@ public class Main {
 			}
 
 			System.out.printf("%.2f%n", media);
+			sc.close();
 		}
 	}
 
